@@ -6,21 +6,22 @@ header{
     background-image: url(/images/banner/banner1.png);
     height: 808px;
 }
-.banner-section{
-    text-align: bottom right;
-    margin: 0 200px;
-    align-items: right;
+.section{
+    text-align: right;
+    padding-top: 216px;
 }
 .banner-title{
     width: 525px;
     font-weight: 700;
     font-size: 65px;
+    margin-left: 845px;
 }
 .banner-description{
     font-weight: 400;
     font-size: 16px;
     width: 494px;
     color: #444343;
+    margin-left: 876px;
 }
 .banner-button{
     font-weight: 600;
@@ -32,4 +33,24 @@ header{
     background: #F15B22;
     border: 2px solid #F15B22;
     margin-top: 32px;
+    margin-right: 148px;
+}
+
+/* profite style */
+.profite{
+    margin-top: 150px;
+    margin-left: 206px;
+    height: 725px;
+    background-image: url(/images/person.png);
+    background-repeat: no-repeat;
+}
+.profite-title{
+    font-weight: 700;
+    font-size: 40px;
+}
+.description{
+    width: 416px;
+    height: 104px;
+    font-weight: 400;
+    font-size: 16px;
 }
